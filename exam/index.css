@@ -1,0 +1,130 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.main
+{
+    height: 52px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+.ul1
+{
+    display: flex;
+    padding-left: 25px;
+    position: relative;
+    top: 15px;
+}
+li
+{
+    list-style: none;
+    padding-left: 55px;
+
+}
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.testimonials
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    top: 25px;
+    display: flex;
+    justify-content: center;
+}
+.line
+{
+    height: 2px;
+    width: 10%;
+    position: relative;
+    top: 35px;
+    left: 45%;
+    /* color: white; */
+    background-color: white;
+}
+.easy
+{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 60px;
+    padding-left: 30%;
+}
+.main-img
+{
+    height: 100px;
+    width: 100px;
+}
+.main5
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 35px;
+    left: 175px;
+}
+.border
+{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    position: relative;
+    top: 105px;
+    /* left: 25px; */
+}
+.border1
+{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    position: relative;
+    top: 105px;
+    /* left: 25px; */
+}
+.border2
+{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    position: relative;
+    top: 105px;
+    /* left: 25px; */
+}
+.btn
+{
+    height: 42px;
+    width: 25%;
+    border-radius: 5px;
+    border: none;
+    position: relative;
+    top: 25px;
+    left: 160px;
+    background-color: black;
+}
+.like
+{
+    line-height: 25px;
+    word-spacing: 5px;
+    position: relative;
+    left: 2px;
+    /* letter-spacing: 2px; */
+}
+.krsna
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
